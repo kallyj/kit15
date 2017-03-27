@@ -1,0 +1,33 @@
+body{
+    background-image: url("../KIT15E/img/pilt1.jpg");
+    background-size: cover;
+    color:aliceblue;
+}
+
+img{
+    width: 40%;
+    height: 40%;
+}
+a:link, a:visited, a:hover{
+    background-color: antiquewhite;
+    padding: 30px, 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:link {
+    color:blue;
+}
+a:visited {
+    color:darkred;
+}
+a:hover {
+    color:darkgreen;
+}
+
+div {
+    color:aquamarine;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 150%;
+}
